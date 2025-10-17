@@ -96,6 +96,8 @@ public class DetectCollision : MonoBehaviour
 
 ## OUTPUT:
 
+![alt text](image.png)
+
 ## RESULT:
 Animal feeding game-Phase-2 using unity is developed successfully.
 
